@@ -1,3 +1,4 @@
+
 # [SDF02]: Your First GitHub Repo
 
 This project is designed for beginners to get hands-on experience with version control using Git and GitHub. By completing this project, students will learn how to fork a repository, make changes, commit these changes, and push them back to the repository. This practical exercise will also include updating personal information and images in a simple HTML page, providing a basic understanding of web development alongside version control skills.
@@ -9,8 +10,7 @@ This project is designed for beginners to get hands-on experience with version c
 - Push the changes back to the GitHub repository.
 - Submit the updated repository link to the SDF02 Project Tab on Learning Management System (LMS).
 
-
-![image](https://github.com/Mphumudzeni/WFO2407_CS20240211_GROUP-B_-MPHUMUDZENI-TSHISWAISE_SDF02_R/assets/174888707/1e93dfdc-85a4-4b88-967e-f7a03b9be5f9)
+![alt text](image.png)
 
 ## Tasks
 1. **Fork the Repository**: Login to GitHub and fork the SDF repository to your local machine. Instructions on how to fork a repository can be found in GitHub's help documentation.
